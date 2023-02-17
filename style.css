@@ -106,7 +106,7 @@
 .speaker-li {
   display: flex;
   gap: 20px;
-  margin: 50px;
+  margin: 0;
 }
 
 .speaker-img {
@@ -398,6 +398,7 @@
 
   .speaker-li {
     display: flex;
+    margin: 0;
   }
 
   .speaker-img {
