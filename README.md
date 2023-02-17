@@ -70,7 +70,7 @@ the headline section (right after the header):
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://princebadru.github.io/mobilefirst/)
+- [Live Demo Link](https://princebadru.github.io/capstone/)
 
 ## Loom video (if available)
 [Loom Link](https://www.loom.com/share/84b09bc2c29a4cada8cdf05d306d1b47)

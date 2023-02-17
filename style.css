@@ -397,7 +397,6 @@
 
   .speaker-li {
     display: flex;
-    margin: 0;
   }
 
   .speaker-img {
@@ -415,7 +414,7 @@
   }
 
   .speaker-text {
-    width: 650px;
+    width: 250px;
   }
 
   .ceo-text {
@@ -455,7 +454,7 @@
     justify-content: center;
     margin-bottom: 20px;
     font-size: 30px;
-    width: 100vw;
+    width: 60vw;
     text-decoration: none;
   }
 
