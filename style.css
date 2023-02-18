@@ -12,6 +12,12 @@
 .card-flex {
   display: flex;
   flex-direction: row;
+  margin-bottom: 10px;
+}
+
+.speakers-list h2 {
+  margin-top: 100px;
+  text-align: center;
 }
 
 .list {
@@ -23,12 +29,12 @@
 }
 
 .ico-date {
-  background-color: white ;
+  background-color: white;
   margin-bottom: 0;
 }
 
 .ico-title {
-  background-color: white ;
+  background-color: white;
 }
 
 .card {
@@ -517,7 +523,7 @@
     color: rgb(154, 50, 12);
     font-size: 60px;
     width: 1000px;
-    background-color: ;
+    background-color: azure;
   }
 
   .contact {
