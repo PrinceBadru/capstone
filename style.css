@@ -73,10 +73,6 @@
   text-align: center;
 }
 
-.footer1 {
-  display: non;
-}
-
 .footer1 img {
   display: none;
 }
@@ -244,7 +240,7 @@
 .partners-class {
   background-color: black;
   color: grey;
-  width: 110vw;
+  width: 120vw;
   margin-bottom: 0;
 }
 
