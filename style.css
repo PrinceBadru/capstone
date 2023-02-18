@@ -1,5 +1,6 @@
 .full-body {
   background-image: url(./images/bitcoin-3089728__340.webp);
+  opacity: inherit;
   background-repeat: no-repeat;
 }
 
@@ -17,6 +18,19 @@
   list-style: none;
 }
 
+.ico-words {
+  background-color: white;
+}
+
+.ico-date {
+  background-color: white ;
+  margin-bottom: 0;
+}
+
+.ico-title {
+  background-color: white ;
+}
+
 .card {
   gap: 0;
   width: 500px;
@@ -25,6 +39,11 @@
   background-color: rgb(14, 15, 15);
   border: 1px solid rgb(227, 22, 22);
   flex-wrap: wrap;
+}
+
+.contact {
+  margin-bottom: 10px;
+  background-color: white;
 }
 
 .crypto-image {
@@ -91,6 +110,7 @@
   margin-bottom: -12px;
   color: white;
   font-size: 25px;
+  background-color: black;
 }
 
 .main-section {
@@ -497,6 +517,7 @@
     color: rgb(154, 50, 12);
     font-size: 60px;
     width: 1000px;
+    background-color: ;
   }
 
   .contact {
