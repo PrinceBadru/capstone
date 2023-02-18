@@ -1,3 +1,5 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css);
+
 .full-body {
   background-image: url(./images/bitcoin-3089728__340.webp);
   opacity: inherit;
@@ -9,15 +11,25 @@
   font-family: sans-serif;
 }
 
+.speaker-text {
+  width: 200px;
+}
+
 .card-flex {
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
 }
 
-.speakers-list h2 {
-  margin-top: 100px;
+.speakers-list h3 {
   text-align: center;
+  font-size: 30px;
+}
+
+.speakers-list h2 {
+  text-align: left;
+  font-size: 20px;
+  margin: 0;
 }
 
 .list {
