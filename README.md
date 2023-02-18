@@ -73,7 +73,7 @@ the headline section (right after the header):
 - [Live Demo Link](https://princebadru.github.io/capstone/)
 
 ## Loom video (if available)
-[Loom Link](https://www.loom.com/share/84b09bc2c29a4cada8cdf05d306d1b47)
+[Loom Link](https://www.loom.com/share/d0dab44c589c4184890484f31e42ca96)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
