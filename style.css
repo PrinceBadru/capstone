@@ -11,7 +11,7 @@
 
 .card-flex {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   margin-bottom: 10px;
 }
 
@@ -121,7 +121,7 @@
 
 .main-section {
   background-color: #282b32;
-  width: 100vw;
+  width: 130vw;
   height: 30vw;
   color: aliceblue;
   font-family: sans-serif;
@@ -247,7 +247,8 @@
 .speaker-section {
   font-family: sans-serif;
   justify-content: center;
-  margin-top: 60px;
+  margin-top: 300px;
+  width: 100vw;
 }
 
 .main-section form {
