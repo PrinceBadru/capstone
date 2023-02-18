@@ -74,6 +74,10 @@
 }
 
 .footer1 {
+  display: non;
+}
+
+.footer1 img {
   display: none;
 }
 
@@ -227,18 +231,20 @@
 }
 
 .sponsors-list {
+  width: 100vw;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   list-style: none;
-  font-size: 80px;
   flex-wrap: wrap;
+  justify-content: space-between;
+  font-size: 38px;
+  padding: 0 40px;
 }
 
 .partners-class {
   background-color: black;
   color: grey;
-  width: 100vw;
+  width: 110vw;
   margin-bottom: 0;
 }
 
